@@ -42,11 +42,6 @@ Launch the program from your IDE or terminal. Once the player interface appears:
 - The application currently supports only `.wav` format due to compatibility with the audio library used.
 - Make sure the audio file names do not contain spaces or special characters.
 
----
-
-## 📸 Preview
-
-![DSA Music Player Screenshot](link-to-screenshot-if-any)
 
 ---
 
